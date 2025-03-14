@@ -1,5 +1,0 @@
-// /timeManager.tsx
-
-class TimeManager {
-  
-};
